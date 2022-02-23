@@ -1,0 +1,14 @@
+
+
+[
+    {
+        "title":"Employee Management System",
+        "description":"It is an online platform designed for admins to update and manage the data of employees. Used HTML, CSS, JavaScript for front-end. Used php and My-SQL for database connection",
+        "dataaos":"fade-left"
+    },
+    {
+        "title": "Audio Player App",
+        "description":"It is an android/iOS app designed for playing audio in one’s mobile phone. It asks permission from the device to access files and fetch the files into the player. Used React Native and expo cli.",
+        "dataaos":"fade-left"
+    }
+]
