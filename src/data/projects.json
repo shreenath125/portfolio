@@ -10,5 +10,10 @@
         "title": "Audio Player App",
         "description":"It is an android/iOS app designed for playing audio in one’s mobile phone. It asks permission from the device to access files and fetch the files into the player. Used React Native and expo cli.",
         "dataaos":"fade-left"
+    },
+    {
+        "title": "Alumini Network App",
+        "description":"It is an android/iOS app designed for connecting college students and Alumini so that juniors get proper guidance for their career. It consist of companies which they are currently working and their job information with social accounts to contact. Used React Native and expo cli.",
+        "dataaos":"fade-left"
     }
 ]

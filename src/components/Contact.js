@@ -13,8 +13,7 @@ function Contact() {
                 <div className='section-title res-ml-20'>
                     <h2>Contact</h2>
                     <p>Dropping a line to say g’day, ask for my resume or see if we can build something amazing together? I’d love to hear from you!
-                        However, if you have other request or question, don’t hesitate to use the form.</p>
-                    <p>Fill in your info in the form below and I look forward to hearing from you!</p>    
+                        However, if you have other request or question, don’t hesitate to use the form.</p>    
                 </div>
                 <div className='row d-flex-center res-d-col' style={{ justifyContent: 'space-evenly' }}>
                     <div className=' col-lg-12 col-xl-5 d-flex-center resPadd-0'>

@@ -52,7 +52,7 @@ function Hero() {
                 </div>
                 <div class="hero-container" onScroll={()=>{handleScroll()}} data-aos="fade-in">
                     <h1>Shreenath Asati</h1>
-                    <p>I'm  <label><Typewriter 
+                    <p><label><Typewriter 
                             options={{
                                 autoStart: true,
                                 loop: true,
@@ -60,7 +60,7 @@ function Hero() {
                             onInit={
                             (typer)=>{
 
-                                typer.typeString("Frontend Devloper")
+                                typer.typeString("Software Developer")
                                 .pauseFor(1000)
                                 .deleteAll()
                                 .typeString("competitive coder")

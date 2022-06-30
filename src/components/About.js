@@ -13,8 +13,8 @@ function About() {
       <div className='container1'>
         <div class="section-title" >
           <h2>About</h2>
-          <p>I am a <strong>Frontend</strong> designer, living in <strong>Damoh ,M.P.</strong><br />
-            I am a pre final year undergraduate Information Technology student at<strong> IIIT bhopal </strong>pursuing <strong> B.Tech</strong> in <strong>computer science and engineering. </strong>
+          <p>I am a <strong>Software</strong> designer, living in <strong>Damoh ,M.P.</strong><br />
+            I am a final year undergraduate Information Technology student at<strong> IIIT bhopal </strong>pursuing <strong> B.Tech</strong> in <strong>computer science and engineering. </strong>
           </p>
         </div>
         <div className='row'>
@@ -22,7 +22,7 @@ function About() {
             <img src={profile_img} data-aos="zoom-in" alt="" style={{width: 300,height: 400}}/>
           </div>
           <div class="col-lg-8 pt-4 pt-lg-0 content" >
-            <h3>Frontend developer</h3>
+            <h3>Software developer</h3>
             <p className="font-italic">
               Excellent problem-solving skills and ability to perform well in teams. Passionate and have extensive
               experience in Competitive Programming, A Frontend developer, Software development enthusiast, eager
@@ -38,7 +38,7 @@ function About() {
               </div>
               <div class="col-lg-6" data-aos="fade-left">
                 <ul>
-                  <li><i><AiOutlineCaretRight /></i> <strong>Age:</strong> 20</li>
+                  <li><i><AiOutlineCaretRight /></i> <strong>Age:</strong> 21</li>
                   <li><i><AiOutlineCaretRight /></i> <strong>Degree:</strong> B.Tech.</li>
                   <li><i><AiOutlineCaretRight /></i> <strong>Email:</strong> shreenathasati01@gmail.com </li>
                   <li><i><AiOutlineCaretRight /></i> <strong>Work Status:</strong> Available</li>
@@ -46,7 +46,7 @@ function About() {
               </div>
             </div>
             <p>
-              I’m also an executive member of <b>Codame Club IIIT Bhopal</b> ,which is one of the flagship clubs for like minded coding enthusiasts , where I worked as a <b>problem setter</b> for their coding contests.
+              I’m also senior executive member of <b>Codame Club IIIT Bhopal</b> ,which is one of the flagship clubs for like minded coding enthusiasts , where I worked as a <b>problem setter</b> for their coding contests.
             </p>
             <p>
               My hobbies are playing cricket , doing competitive coding,travelling and I also fond of music and playing different instruments.

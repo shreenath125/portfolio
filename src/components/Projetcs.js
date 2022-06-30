@@ -1,4 +1,3 @@
-/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from 'react'
 import { GoDeviceDesktop } from 'react-icons/go';
 import projectData from '../data/projects.json'
