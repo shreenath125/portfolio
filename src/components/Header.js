@@ -67,7 +67,7 @@ function Header() {
                         <li className='headbtn about' onClick={(e) => { handleClick(e, 'about') }}><i><BsPerson /></i> <span> About</span></li>
                         <li className='headbtn skills' onClick={(e) => { handleClick(e, 'skills') }}><i><FaBrain /></i> <span> Skills</span></li>
                         <li className='headbtn projects' onClick={(e) => { handleClick(e, 'projects') }}><i><MdOutlineDesignServices /></i><span>Projects</span></li>
-                        <li className='headbtn resume' ><a href="https://drive.google.com/file/d/18SlhhMvqJ_z-jT4_r1MnlcljXZ9kf2g9/view" style={{ textDecoration: 'none' }}><i><CgFileDocument /></i> <span> Resume</span></a></li>
+                        <li className='headbtn resume' ><a href="https://drive.google.com/file/d/1miUi_D6asLCOAERze2XgHA_ytjcP0GN7/view?usp=sharing" style={{ textDecoration: 'none' }}><i><CgFileDocument /></i> <span> Resume</span></a></li>
                         {/* <li><a href="#portfolio"><i><BsGrid1X2 style={{fontSize:'18px'}}/></i><span>Portfolio</span></li> */}
                         <li className='headbtn contact' onClick={(e) => { handleClick(e, 'contact') }}><i><HiOutlineMail /></i><span>Contact</span></li>
                     </ul>
